@@ -1,159 +1,215 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWh27tjd1FNVAOPSX0USYijfaEyINTkfaG0cPk8rzg61aDbyXSp2tBqxIb84p8UyhJLLNiDNC59fZD90u2gn52piHfUmy-ULyeZbf_mkRGvJKVKdwLYSOPiLEQJV2p8uvgVK-PB8ADIGcGotQOnNqrp4gTasKVqoxJ3sbt-77SeKqG-0frt2nLktDXlw/s600/Nur_20251216_230322_0000.png" group-title="CARTOON/KIDS", Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-id="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png" group-title="BANGLA",Akash Aath
+http://103.159.180.34:5001/live/698.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vg6odNteLWSDHfqSW9onNwjB-pmmqHXlNxnbldT2-bHcESNCS4DB7xmy84klz1JqUC891lQg5Z0HE4jGnKar4AfA5gi2HD6oaTKbwbV1eK-mIjoKo717m7hKehUfigkxJBX4PeZGV8KnTU5ZgxpQGjfBjdNVAGHRQo5pj1MoP0avxVTRVEQj5VfXWQ/s1080/1000023510.png" group-title="CARTOON/KIDS", Mr. Bean
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-id="amarbangla.bd" tvg-logo="https://amarbanglatv.in/wp-content/uploads/2026/07/Amar-Bangla-TV-logo-300x162.jpeg" group-title="BANGLA",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://gia.tv/streams/pptv/208314.jpg" group-title="KIDS",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Amar Digital TV" tvg-logo="https://th.bing.com/th/id/OIP.ZSBINjQw_TEmElNoECErVQHaDL?rs=1&pid=ImgDetMain" group-title="BANGLA",Amar Digital TV
+http://115.187.41.216:8080/hls/amardigital/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21ZAgQbK7cWgg1jsBXguoD2T4TNjPxPDY0-fhefmIhX6SucV6RmhP_GbxvUTc3zUBCyuCVPM2Aylb_NbFqTDrIvMYhMGYO3iYMNDKvIWFF9MgSV3sTe2zPxHGnXQYvu9wbPUNxRgQz8Y_3V7Skc-vHbqSpEe-5J-G_NuBGAUrCtqWaplTaubIbpzsKw/s600/Nur_20251216_230424_0000.png" group-title="CARTOON/KIDS", Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-id="ANANDATV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b7/Ananda_TV_logo.png" group-title="BANGLA",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH7NVNXH6JB77TqoGVwDhqOPFUuipiSsncGHh0Fv52DkA4JM65rw0faF7RkwhlG_NSZMUBEkIKKSwAg3BPCP9K_6O8K22p01NSHmsMiqBX5wnlM-GKwVf7CgOmVbBfXDA7BkjhgoSfuwHz4J-2_tMFXXrLXkMWD8JpNnC9gXuHOZytcfRmvABesWDw/s1080/1000068948.png" group-title="CARTOON/KIDS", Disney Jr
-https://ipt.aethelcode.workers.dev/disney/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/disney-junior-us.png" group-title="CARTOON/KIDS", Disney Jr (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21018.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/disney-junior-us.png" group-title="CARTOON/KIDS", Disney Jr (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21019.ts
+#EXTINF:-1 tvg-id="asiantv.bd" tvg-logo="https://yt3.googleusercontent.com/AKdtkYcJ5cbC1NNkbELbIarJgjbCxsyQ08rW-LAbtZ0F8KdDGutcTKLmRpdFf5hxtC_UrFpO=s160-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOeic0c37X0og4h6ZAUiQl_yyBfCHzIS7un9Fk3wMltEkkClvtgLplJtyQA2_pXPAUyhGU9OD9dthtXoZUsWHKu-e920Y8_k5IWodcmCJS_hOzwySyuN2yexpVIkcjdwFxl9CPM6J9WQ5K_EroShhcpVGNqt7CGLXeTtDHagYjtMmg0uaUBO-wQ_Phfw/s1080/1000021568.png" group-title="CARTOON/KIDS", Cartoon Network UK
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/cartoon-network-uk.png" group-title="CARTOON/KIDS", Cartoon Network (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21009.ts
+#EXTINF:-1 tvg-id="atnbangla.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg" group-title="BANGLA",ATN Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRB4drGtiLC7n-WUv1Whw5zivy-mXgxQ_x3sidxEBL5bItoFPLDbbYPZ7IQ1yyk0xNc8Qz_E05I0CppL3bpp4iB2YvDvTPb9GAjmEbOwTJFBCTxOpQhlBIltjIPsbqloBL0Ah-4lSLtDCoQj6cQpmkkp082IQvRYN9bHTmEQIdkOkcKaB30168kd0qmw/s600/Nur_20251227_140437_0000.png" group-title="CARTOON/KIDS", Oggy & Cockroaches
-https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ATN Bangla UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg" group-title="BANGLA",ATN Bangla UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMOfC7NSiiuVI790ObTRdMxvxQxJKZ6txYs_yi2i8TyD49hKqiKe_B4Imw8apKnzx_4wYwLXrHaqTs8xHuFwasDJXtpwoYF_wIF9PaOwNPAzebYJNudCeSBFVLr_29AFty7aRMPu_GXn57d5ClKabsMZFDVwwWHE7EQhWnmuGaNBUvlaHArQNNarK14A/s1080/1000057901.png" group-title="CARTOON/KIDS", Batul the Great
-https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="banglatv.bd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Bangla_TV_logo.svg" group-title="BANGLA",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2_Oo4wyPeRJLk6Qx2LR-qkU7yUMefWJePaqWug6mf0BpN9c-JOnMtXrlahIdhb20vUfRAVmne71FSD3RUY_is9kr7fWe5K0Yd33IDt-mAC75fv7cfe49rOlV-a-JF5T1_7XV16ayq1hf2yg018vibmqvuCTigY3ZQn0G00e_Dxl7gZy8a1LZ6C-SAvg/s600/Nur_20251222_155548_0000.png" group-title="CARTOON/KIDS", Cartoon Network PK
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="banglavision.bd" tvg-logo="https://www.bvnews24.com/media/common/newbvlogo.png" group-title="BANGLA",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2edfxjpaRWd9z0Gi2F2lUXyZFWRzAQS8ZOspyVQul4nuPDf_FgU9FvE8dY8L_xi-9IiDLf9ab0ZFEmIkyh5PtgZV8cn_GFmQdNmk4E3cAOCw8c05ODEJPXZhGRuSHhrVlp0T9KlGxLK9yQRlL_goXSLSAG9uw6unt9kclbWS0WEUPYlPuDBDkeOlEGw/s1080/1000068156.png" group-title="CARTOON/KIDS", AniHive
-https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BanglaPlusHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir8DIISD_3Ay4E2H__HTS4VFP7VXskYcIgkufU45epPzAFDKObL2D_p6mOal9B0RJpyaiA3feJuyaL8yvd0x-2nykRjc1pZPwT_aAGwmwFb4bEJf8oVDgty5NF30gzWlwHvh2P2c49pP2P8383ili_yboK1uSyqELcZygHTpSwru1VeK0mMwceugT5QLw/s1600/NadimRazaTVLogoDesign%282%29_copy_900x900_1.png" group-title="BANGLA",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SvpPncHQfHZlsBpjVMVtmBfJC4LOr2DFgPqmKy3TLc2RX9qFojXlkVI4PE3HsdqQxe86M45jG3qox-9gnHrWQitihZNK-MTGNzOcAnVlvljq4T6ww5f6uY5CAIjZ3dT6QpkPTPtpuF4j1XfR5s4lYx6h55y5rjkuczIYedVvzrg6F3ZknbS35cUZ/s600/Nur_20251103_212544_0000.png" group-title="CARTOON/KIDS", Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-id="BHI Channel" tvg-logo="https://play-lh.googleusercontent.com/PcAXvs0OZyme6dsppfqDZ9yHDsU-hkMBzWBxvpXekx8-bT_XWoW0qCB4QfktUZXwBQqQ5NqddeYHD_jJBQb0Yg=w240-h480" group-title="BANGLA",BHI Channel
+https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2VL0ibIZneMJNRES-4Ffe4J3e6Krst07krvLIYz1FY9O8ad7AKlU0lX1bk0OuQ1WTAVoAz0Pp_aDXzhRuRWDBnPAIQ589rNt1dRMk9a68EAeJC3jBw0WPj6SgbvCXYnO3V95koVC-HjrMrEFTVvC7jtmMhYkbq5FjRdtVB84g12j-ASwf7cmdMAA-IA/s600/Nur_20251222_155645_0000.png" group-title="CARTOON/KIDS", Discovery Kids
-http://103.151.60.162:2122/play/a02e/index.m3u8?hls
+#EXTINF:-1 tvg-id="bijoytv.bd" tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a42cff0b32f1705258239.jpg" group-title="BANGLA",Bijoy TV
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLBMsrXsPAZmMUpL1YSHecg_MquDHoA6KB5JZlJqVDJZ6qPGEI5tS0Qx3Kz2MNrLSd60OaunpMpR9qjmEPHwn2mgX7rOnFq2VvcbS6HmnSyRl99yGekeamY0deR3DqvybEdG2b06JFAhEzYP7O56VjyUrb8R691BmcM2jnnvyqXYYnlEzSVStSJgUpOA/s600/Nur_20251216_230353_0000.png" group-title="CARTOON/KIDS", Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="BOISHAKHITV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Boishakhi_TV_HD_logo_2022.png" group-title="BANGLA",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD9mz-M_ZUgq8fte2jPDDfZ7JywCzxy2dbnLyidEN2hfJKyvLaiIiUClroXE2qd6I9jYWfQza3F5-pu5FE17097aZBNf6BekaIKOMIyVxlLVp7aQQaXV9Lh0Wn8ue-U8kyriY2qGrA1bB8i28RQeoFf4l2uviK-LyaA15ccnlasdnq0pXzf9KVKrCalA/s1080/1000057704.png" group-title="CARTOON/KIDS", MiniMax
-https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
+#EXTINF:-1 tvg-id="BTVCHITTAGONG.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg" group-title="BANGLA",BTV Chittagong
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="CARTOON/KIDS", Nick Bangla
-http://103.165.93.31:8095/nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="btv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Bangladesh_Television_Logo_1971_Alt.svg" group-title="BANGLA",BTV
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLJcDziUjJkTr9BDqW0tf8CvPjXzg3CCD5o8BMUjurezSGTsh6_d-u9gXq2hegQ7c31OPtFc-blGR_MXcgRERkbaveOR6X8zOI5fhGw2nzd8de0AhwWWlrsujv99P9PAe_iT9u6d3aWYB17SNl7Mwa6FU38xkgYwyhmZenFEJQr2F6QXxWzUXUSdFTsg/s1080/1000060073.png" group-title="CARTOON/KIDS", Sonic HD
-https://broadcast.iptvchannels.workers.dev/live.m3u8?id=1345
+#EXTINF:-1 tvg-id="Channel52" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nkJKVbw8obzDxMqr3icQerQ6PvZlkDFjbBaYRBfn83Lw=s160-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Channel 52
+http://str24.l9574.com/503.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9EYIMD3Lq-t6po8RiBJUOprYg3wc6HQhFoyjdi8LpvobBAdlvFJkRP7nqsopG9k6csvSX-WpQxQtdLeRIv9LoAL3p0znpS9wdxVlTYMMFTVqm2-Zw_-TUuBiftGQoguS_NDb5uArQPjaV2XF57p0zkgqQiA-s1ORJf-Nfcg_4cLnMJW0StVnkupO_/s1080/1000068842.png" group-title="CARTOON/KIDS", Tom & Jerry
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CHANNEL9.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png" group-title="BANGLA",Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnkdf/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVeALw9X-0xPLlr91RmYhgfhbSU_Sdaq2BSEtvX_z_jG4HmSBtDNgEsIpy4hd9Icft7vIKUBnN662mWSA-JA10BZ0QdsWLB19B_l21oH4PwolDfEqofuNGc1tDDq5w1CcS60IiH-evTOfh_7XUP6fsIKx3l7IPCMTI0S9G7rFW5oGw3F5jPM5yTpDqoQ/s600/Nur_20251222_155618_0000.png" group-title="CARTOON/KIDS", CN HD+
-https://broadcast.iptvchannels.workers.dev/live.m3u8?id=3436
+#EXTINF:-1 tvg-id="channeli.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Channel_i_HD_logo_2021.png" group-title="BANGLA",Channel i
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqT4xroObzWmRD6CdhjGWrws3TYZFGzeAf4h_aH2mwBt6eV5gUuIqcIJT03fmzyA1vm_vSojUmCCbQXsv0jAHvD673QupWKEM2mpxxANEWMiFLgGzFPokNorKbEW7ddjZTfL4fbyaxZb1Jf0nYiMIu7QStJZaWPF5t_QDYW11uVkpjNk9lMj3YOqDhBw/s600/Nur_20251222_155425_0000.png" group-title="CARTOON/KIDS", POGO
-https://broadcast.iptvchannels.workers.dev/live.m3u8?id=559
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT37QeLoNwrMrzrL8NUx_sA4tyZw0hnHoqF5RhwENo_TOP2Z29HYAMAk&s=10" group-title="BANGLA",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sonamul4545/Channel_logo-s/blob/main/ZB%20cartoon.jpg?raw=true" group-title="CARTOON/KIDS", ZB Cartoon
-http://103.151.61.12/zbcatun/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+#EXTINF:-1 tvg-id="deeptotv.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/98/Deepto_TV_HD_logo.png" group-title="BANGLA",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/boomerang-us.png" group-title="CARTOON/KIDS", Boomerang (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21007.ts
+#EXTINF:-1 tvg-id="DESHTV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/27/Desh_TV_on-screen_logo_2022.png" group-title="BANGLA",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cartoon-network-ca.png" group-title="CARTOON/KIDS", Cartoon Network (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21008.ts
+#EXTINF:-1 tvg-id="DesheBideshe" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cartoon-network-us.png" group-title="CARTOON/KIDS", Cartoon Network (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21010.ts
+#EXTINF:-1 tvg-id="deshitv.bd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png" group-title="BANGLA",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/cartoonito-uk.png" group-title="CARTOON/KIDS", Cartoonito (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21011.ts
+#EXTINF:-1 tvg-id="Drama 24" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="BANGLA",Drama 24
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cartoonito-us.png" group-title="CARTOON/KIDS", Cartoonito ES (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21012.ts
+#EXTINF:-1 tvg-id="ekushey.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png" group-title="BANGLA",Ekushey TV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-cbbc-uk.png" group-title="CARTOON/KIDS", CBBC (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21013.ts
+#EXTINF:-1 tvg-id="GTVHD.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png" group-title="BANGLA",GTV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/bbc-cbeebies-uk.png" group-title="CARTOON/KIDS", Cbeebies (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21014.ts
+#EXTINF:-1 tvg-id="GLOBALTV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Global_Television_HD_logo.png" group-title="BANGLA",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/disney-channel-ca.png" group-title="CARTOON/KIDS", Disney Channel (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21015.ts
+#EXTINF:-1 tvg-id="iontv.us" tvg-logo="https://static.wikitide.net/avidwiki/2/22/Ion5.png" group-title="BANGLA",iON TV
+https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/disney-channel-us.png" group-title="CARTOON/KIDS", Disney Channel (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21016.ts
+#EXTINF:-1 tvg-id="JankharTV.in" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg" group-title="BANGLA",Jhankar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/disney-channel-ca.png" group-title="CARTOON/KIDS", Disney FR (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21017.ts
+#EXTINF:-1 tvg-id="MAASRANGA.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png" group-title="BANGLA",Maasranga TV
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/disney-xd-us.png" group-title="CARTOON/KIDS", Disney XD (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21020.ts
+#EXTINF:-1 tvg-id="mohona.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Mohona_tv_Logo.svg" group-title="BANGLA",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/knowledge-kids-ca.png" group-title="CARTOON/KIDS", Knowledge Kids (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21021.ts
+#EXTINF:-1 tvg-id="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="BANGLA",Movie Bangla TV
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-us.png" group-title="CARTOON/KIDS", Nick (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21022.ts
+#EXTINF:-1 tvg-id="mytv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg" group-title="BANGLA",My TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="CARTOON/KIDS", Nick Jr (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21023.ts
+#EXTINF:-1 tvg-id="NEXUSTV.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png" group-title="BANGLA",Nexus TV
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-jr-us.png" group-title="CARTOON/KIDS", Nick Jr (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21024.ts
+#EXTINF:-1 tvg-id="NK TV Bangla" tvg-logo="https://www.nktvbangla.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-12-at-2.59.18-PM.jpg" group-title="BANGLA",NK TV Bangla
+https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/nick-jr-too-uk.png" group-title="CARTOON/KIDS", Nick Jr Too (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21025.ts
+#EXTINF:-1 tvg-id="ntv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png" group-title="BANGLA",NTV
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-jr-us.png" group-title="CARTOON/KIDS", Nick Jr.Too (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21026.ts
+#EXTINF:-1 tvg-id="NTVtvUK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/NTV_logo_with_slogan_%28Bangladesh%29.png" group-title="BANGLA",NTV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/nickelodeon-uk.png" group-title="CARTOON/KIDS", Nickelodeon (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21027.ts
+#EXTINF:-1 tvg-id="PROBASHITV.bd" tvg-logo="https://i.imgur.com/79g2kMA.png" group-title="BANGLA",Probashi TV
+http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nickelodeon-us.png" group-title="CARTOON/KIDS", Nickelodeon (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21028.ts
+#EXTINF:-1 tvg-id="Rajdhani TV" tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="BANGLA",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/nick-toons-uk.png" group-title="CARTOON/KIDS", Nicktoons (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21029.ts
+#EXTINF:-1 tvg-id="rtv.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg" group-title="BANGLA",RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/nick-toons-us.png" group-title="CARTOON/KIDS", Nicktoons (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21030.ts
+#EXTINF:-1 tvg-id="SATV.tv" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/1/11/SATV_HD.png" group-title="BANGLA",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/pbs-kids-dot-icon-us.png" group-title="CARTOON/KIDS", PBS Kids (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21031.ts
+#EXTINF:-1 tvg-id="timetelevision.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/News_Time_2.jpg" group-title="BANGLA",Time TV
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/pop-uk.png" group-title="CARTOON/KIDS", POP (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21032.ts
+#EXTINF:-1 tvg-id="atnnews.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/ATN_News_HD.png" group-title="BANGLA",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/pop-max-uk.png" group-title="CARTOON/KIDS", POP MAX (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21033.ts
+#EXTINF:-1 tvg-id="btvnews.bd" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1080&q=75" group-title="BANGLA",BTV News
+https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/rte-jr-uk.png" group-title="CARTOON/KIDS", RTE JR (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21034.ts
+#EXTINF:-1 tvg-id="Channel 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg" group-title="BANGLA",Channel 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/teletoon-ca.png" group-title="CARTOON/KIDS", TELE TOON (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21035.ts
+#EXTINF:-1 tvg-id="DBCNEWSHD.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9f/DBC_News_logo.png" group-title="BANGLA",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/teletoon-ca.png" group-title="CARTOON/KIDS", TELE TOON FR(CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21036.ts
+#EXTINF:-1 tvg-id="ekattor.tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/tiny-pop-uk.png" group-title="CARTOON/KIDS", Tiny Pop (UK)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21037.ts
+#EXTINF:-1 tvg-id="EKHON.TV" tvg-logo="https://ekhon.tv/logo.png" group-title="BANGLA",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/treehouse-ca.png" group-title="CARTOON/KIDS", Treehouse (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21038.ts
+#EXTINF:-1 tvg-id="JagoNews24" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png" group-title="BANGLA",Jago News
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/universal-kids-us.png" group-title="CARTOON/KIDS", Universal Kids (US)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21039.ts
+#EXTINF:-1 tvg-id="jamuna.tv" tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a43ac0d1ffc1705261760.jpg" group-title="BANGLA",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/nick-ca.png" group-title="CARTOON/KIDS", Nick (CA)
-http://206.212.242.25:80/live/3D7K9pS/68527459040/21497.ts
+#EXTINF:-1 tvg-id="NEWS 21 BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="BANGLA",News 21 Bangla
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NEWS24.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a9/News24_HD_logo_2021.png" group-title="BANGLA",News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTINF:-1 tvg-id="somoyNEWS.bd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Somoy_Television.svg" group-title="BANGLA",Somoy News
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TBN24.us" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="BANGLA",TBN 24
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+
+#EXTINF:-1 tvg-id="Aplus" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_li_0aqecfhRahIkMGW05soLUDZz4kUbvvV5GXZci7NhWk=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",A Plus
+https://s3.ideationtec.live/A_Plus/A_Plus.m3u8
+
+#EXTINF:-1 tvg-id="AajEntertainment.pk@SD" tvg-logo="https://i.imgur.com/WK5Cqap.png" group-title="BANGLA",Aaj Entertainment
+https://s2.ideationtec.live/AAJ_Entertainment/AAJ_Entertainment.m3u8
+
+#EXTINF:-1 tvg-id="AanTV.pk" tvg-logo="https://yt3.googleusercontent.com/5vAJDRk-6K5HvSJMsPEZcppBqmk0lRpvvi-9CdGTY36BIJD4EFGcO2oe4YDyt9hzT2eKZlYX3Q=s160-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Aan TV
+https://s5.ideationtec.live/AAN_HD/AAN_HD.m3u8
+
+#EXTINF:-1 tvg-id="aurLIFE.pk" tvg-logo="https://aurlife.tv/wp-content/uploads/2021/11/Aur-life-Logo-png.png" group-title="BANGLA",Aur Life
+https://s3.ideationtec.live/Aur_Life/Aur_Life.m3u8
+
+#EXTINF:-1 tvg-id="BolEntertainment.pk" tvg-logo="https://yt3.googleusercontent.com/E0ON7kC9AImxXYGXFUHZEwhPKYwDIZTPiBpyBBSH2MbT5CO3fSMw4qWlqHaHdF7QTrR0SOfilQ=s72-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Bol Entertainment
+https://s2.ideationtec.live/BOL_Entertainment_HD/BOL_Entertainment_HD.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY PAKISTAN" tvg-logo="https://i.imgur.com/79g2kMA.png" group-title="BANGLA",Discovery Pakistan
+https://s3.ideationtec.live/Discover_Pakistan/Discover_Pakistan.m3u8
+
+#EXTINF:-1 tvg-id="ExpressEntertainment.pk@SD" tvg-logo="https://i.imgur.com/rgHbb8W.png" group-title="BANGLA",Express Entertainment
+https://s3.ideationtec.live/Express_Entertainment/Express_Entertainment.m3u8
+
+#EXTINF:-1 tvg-id="GeoKahani.pk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Geo_Kahani.png" group-title="BANGLA",Geo Kahani
+https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
+
+#EXTINF:-1 tvg-id="LTN FAMILY HD" tvg-logo="https://i.imgur.com/n4CenYn.png" group-title="BANGLA",LTN Family
+https://s3.ideationtec.live/LTN_Family_HD/LTN_Family_HD.m3u8
+
+#EXTINF:-1 tvg-id="tagtv.pk" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mnt-zSHy_ezc-HbwHC6fsV-WkT0VobmddALhF1rO1zYF8=s160-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Tag TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WasebTV.pk" tvg-logo="https://yt3.googleusercontent.com/Jq1I-TUADvMU8g-1IPAlVpnE9CZ95oNyW1B94IlhKlJ0vqG5-oxbBqIc4E1G7Kxjo_8hneVxVg=s160-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Waseb TV
+https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GTVNEWS.pk" tvg-logo="https://i.imgur.com/79g2kMA.png" group-title="BANGLA",GTV News
+https://s4.ideationtec.live/GTV_News_HD/GTV_News_HD.m3u8
+
+#EXTINF:-1 tvg-id="AajNews.pk" tvg-logo="https://i.imgur.com/VNGnHYz.png" group-title="BANGLA",Aaj News
+https://s4.ideationtec.live/Aaj_News/Aaj_News.m3u8
+
+#EXTINF:-1 tvg-id="ARYNEWS.pk" tvg-logo="https://arynews.tv/assets/images/logo.webp" group-title="BANGLA",ARY News
+https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695040da296/main.m3u8
+
+#EXTINF:-1 tvg-id="BOLNEWS.pk" tvg-logo="https://yt3.googleusercontent.com/E0ON7kC9AImxXYGXFUHZEwhPKYwDIZTPiBpyBBSH2MbT5CO3fSMw4qWlqHaHdF7QTrR0SOfilQ=s72-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Bol News
+https://s5.ideationtec.live/BOL_News_HD/BOL_News_HD.m3u8
+
+#EXTINF:-1 tvg-id="DAWNNEWS.pk" tvg-logo="https://www.dawn.com/_img/logo.png" group-title="BANGLA",Dawn News
+https://s5.ideationtec.live/Dawn/Dawn.m3u8
+
+#EXTINF:-1 tvg-id="dunya" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png" group-title="BANGLA",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-id="GNN.pk" tvg-logo="https://gnnhd.tv/_next/image?url=%2Fimages%2Fgnn-logo.png&w=640&q=75" group-title="BANGLA",GNN
+https://s5.ideationtec.live/GNN_HD/GNN_HD.m3u8
